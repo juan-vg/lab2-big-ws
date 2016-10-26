@@ -11,6 +11,9 @@ gradle-app.setting
 # Cache of project
 .gradletasknamecache
 
+# Confidential info
+/src/main/resources/application.properties
+
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 /src/main/resources/application.properties
